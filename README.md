@@ -1,3 +1,4 @@
+
 # Portfolio Website built with Next.js and Tailwind CSS
 This is a [portfolio website](https://varshininathala.github.io/) that has been built using Next.js and Tailwind CSS. It is a fully responsive website that showcases your work and skills as a developer. The website has a clean and modern design with easy navigation, making it easy for visitors to browse your portfolio and learn more about you.
 
@@ -7,3 +8,5 @@ This is a [portfolio website](https://varshininathala.github.io/) that has been 
 - Static site generation (SSG) for faster load times
 - Tailwind CSS for easy styling
 - Easy to customize and update content
+=======
+# Portfolio
