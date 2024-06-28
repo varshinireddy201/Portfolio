@@ -19,19 +19,19 @@ function Projects({ bgColor, refer }) {
             projDesc="Spotify clone build using Next JS, Tailwind CSS, Spotify API,
             NextAuth and Recoil. Made use of new Middleware feature from Next JS
             12."
-            projUrl="https://github.com/StephenJakku/spotify-webapp-tailwindcss"
+            projUrl=""
           />
           <Project
             projImg="/monitoring.png"
             projName="Virtual Sketcher"
             projDesc="This is a computer vision project which detects hands and palm landmarks in real time and uses the data to create a painter application."
-            projUrl="https://github.com/StephenJakku/virtualsketcher"
+            projUrl=""
           />
           <Project
             projImg="/next.svg"
             projName="My Portfolio Website"
             projDesc="Single page website built using Next Js react framework and Tailwind CSS. "
-            projUrl="https://github.com/StephenJakku/stephenjakku.github.io"
+            projUrl=""
           />
         </div>
       </div>
